@@ -1,1 +1,1 @@
-# spin-lg-ar
+# spin
