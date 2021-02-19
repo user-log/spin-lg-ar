@@ -35,7 +35,7 @@
   "minSpinDuration":6,
   "gameOverText":"يرجى ملىء نموذج التسجيل  <a href='https://bit.ly/2ZvfFN0'>مـن هـنا</a> <meta http-equiv='refresh' content='7; URL=https://bit.ly/2ZvfFN0' />",
   "invalidSpinText":"INVALID SPIN. PLEASE SPIN AGAIN.",
-  "introText":"SPIN TO WIN",
+  "introText":"أدر العجلة",
   "hasSound":true,
   "gameId":"9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
   "clickToSpin":true
